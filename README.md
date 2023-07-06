@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @adiko01!
 
+### Other Profiles
+<a rel="me" href="https://ruhr.social/@adiko01">@adiko01@ruhr.social</a>
+
 ### Languages and Tools:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiko01&show_icons=true&theme=dark&title_color=c075db&text_color=ffffff&bg_color=363636&locale=de&langs_count=5&count_private=true" alt="felixlammers" /></p>
